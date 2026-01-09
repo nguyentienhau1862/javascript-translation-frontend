@@ -1,0 +1,12 @@
+.form-field {
+	text-align: left;
+}
+
+.form-field + .form-field {
+	margin-top: 12px;
+}
+
+.form-field > label {
+	display: block;
+	margin-bottom: 4px;
+}

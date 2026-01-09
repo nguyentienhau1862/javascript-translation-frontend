@@ -1,0 +1,23 @@
+export const languageMap = {
+	// en: "English",
+	da: "Danish",
+	de: "German",
+	es: "Spanish",
+	fi: "Finnish",
+	fr: "French",
+	it: "Italian",
+	ja: "Japanese",
+	ko: "Korean",
+	nl: "Dutch",
+	pl: "Polish",
+	"pt-PT": "Portuguese - Portugal",
+	sv: "Swedish",
+	"zh-CN": "Chinese - Simplified",
+	"zh-TW": "Chinese - Traditional",
+	cs: "Czech",
+	hu: "Hungarian",
+	tr: "Turkish",
+	ro: "Romanian",
+	th: "Thai",
+	vi: "Vietnamese"
+};
